@@ -25,8 +25,6 @@ This is a full-stack job posting board application where users can create accoun
 2. **Install Dependencies**:
 Navigate to the backend and frontend folders, and install dependencies:
     ```bash
-   git clone https://github.com/your-username/job-posting-board.git
-   cd job-posting-board
     cd backend
     npm install
     cd ../frontend
