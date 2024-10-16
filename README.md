@@ -30,7 +30,8 @@ Navigate to the backend and frontend folders, and install dependencies:
     cd ../frontend
     npm install
 
-
+3. **Set Up Environment Variables**:Create a .env file in the backend folder with the following content:
+   ```bash
    MONGODB_URI=mongodb://localhost:27017/jobpostingDB
    JWT_SECRET=your_jwt_secret
    EMAIL_USER=your_email
