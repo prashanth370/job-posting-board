@@ -22,12 +22,16 @@ This is a full-stack job posting board application where users can create accoun
    git clone https://github.com/your-username/job-posting-board.git
    cd job-posting-board
 
-2. **Install Dependencies**
+2. **Install Dependencies**:
 Navigate to the backend and frontend folders, and install dependencies:
-   cd backend
-   npm install
-   cd ../frontend
-   npm install
+    ```bash
+   git clone https://github.com/your-username/job-posting-board.git
+   cd job-posting-board
+    cd backend
+    npm install
+    cd ../frontend
+    npm install
+
 
    MONGODB_URI=mongodb://localhost:27017/jobpostingDB
    JWT_SECRET=your_jwt_secret
