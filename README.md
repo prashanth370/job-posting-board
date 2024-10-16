@@ -26,3 +26,14 @@ This is a full-stack job posting board application where users can create accoun
    npm install
    cd ../frontend
    npm install
+
+   MONGODB_URI=mongodb://localhost:27017/jobpostingDB
+   JWT_SECRET=your_jwt_secret
+   EMAIL_USER=your_email
+   EMAIL_PASS=your_email_password
+
+   for backend:
+   npm run dev
+
+   for frontend:
+   npm start
