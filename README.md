@@ -21,7 +21,7 @@ This is a full-stack job posting board application where users can create accoun
    ```bash
    git clone https://github.com/your-username/job-posting-board.git
    cd job-posting-board
-    ```bash
+   
    cd backend
    npm install
    cd ../frontend
