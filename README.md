@@ -37,10 +37,20 @@ Navigate to the backend and frontend folders, and install dependencies:
    EMAIL_USER=your_email
    EMAIL_PASS=your_email_password
 
+4. **Start the Backend Server**:In the backend folder, run:
+   ```bash
    for backend:
    npm run dev
 
+6. **Start the Frontend Server**:In the frontend folder, run:
+   ```bash
    for frontend:
    npm start
+
+7. **Open the app in your browser at**: http://localhost:3000
+   ```bash
+   
+Feel free to customize any part of the content if needed!
+
 
 
