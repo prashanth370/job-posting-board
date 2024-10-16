@@ -49,6 +49,7 @@ Navigate to the backend and frontend folders, and install dependencies:
 
 7. **Open the app in your browser at**: http://localhost:3000
    ```bash
+   http://localhost:3000
    
 Feel free to customize any part of the content if needed!
 
