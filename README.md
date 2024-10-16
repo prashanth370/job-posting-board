@@ -21,7 +21,9 @@ This is a full-stack job posting board application where users can create accoun
    ```bash
    git clone https://github.com/your-username/job-posting-board.git
    cd job-posting-board
-   
+
+2. **Install Dependencies**
+Navigate to the backend and frontend folders, and install dependencies:
    cd backend
    npm install
    cd ../frontend
@@ -37,3 +39,5 @@ This is a full-stack job posting board application where users can create accoun
 
    for frontend:
    npm start
+
+
