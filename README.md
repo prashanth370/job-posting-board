@@ -1,23 +1,23 @@
 # Job Posting Board
 
-This project is a full-stack application for a Job Posting Board, allowing users to register, login, create job postings, and view their dashboard.
+## Description
+This is a full-stack job posting board application where users can create accounts, post job listings, and search for jobs.
 
-## Technologies Used
+## Tech Stack
+- **Frontend**: Next.js, TailwindCSS
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Deployment**: Vercel (Frontend), Render (Backend)
 
-- Frontend: React, Tailwind CSS, shadcn/ui
-- Backend: Node.js, Express.js
-- Database: MongoDB
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+## Setup Instructions
 
 ### Prerequisites
+- [Node.js](https://nodejs.org/) installed
+- MongoDB installed locally
 
-- Node.js (v14 or later)
-- npm (v6 or later)
-- MongoDB
+### Running Locally
 
-### Installation
-
-1. Clone the repository
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/job-posting-board.git
+   cd job-posting-board
